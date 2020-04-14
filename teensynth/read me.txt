@@ -1,7 +1,0 @@
-routing source :
-https://www.pjrc.com/teensy/gui/index.html?info=AudioSynthWaveformDc#
-
-i used teensy 3.6
-audio comes from dac0 and dac1.
-
-i used aki lpd8 controller for synth controls.
