@@ -1,6 +1,0 @@
-routing source :
-https://www.pjrc.com/teensy/gui/index.html?info=AudioSynthWaveformDc#
-I used teensy 3.6;
-audio comes from dac0 and dac1;
-controlled by MIDI from (DAW's) {MIDI.h};
-polyphonic multiwaveform stereo synth with Amplitude Modulation and Reverb {Audio.h};
